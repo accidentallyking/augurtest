@@ -37,6 +37,8 @@ Several "data providers" are available for the project. A good one to start with
 The Schema is GHTorrent: http://ghtorrent.org/relational.html http://ghtorrent.org/files/schema.pdf
 There are limits to ghtorrent as a data source and we are exploring strategies for incorporating higher trust data in our prototyping activities. Some of these concerns are introduced and discussed in this thread on the CHAOSS mailing list. https://lists.linuxfoundation.org/pipermail/oss-health-metrics/2017-September/000112.html
 
+---
+
 #### Augur Use Cases
 Augur has four main use cases:
 1. Organizations seek metrics for open source communities before becoming engaged or using the software [1-org-outside]
