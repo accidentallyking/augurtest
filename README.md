@@ -1,4 +1,10 @@
 # Augur
+
+branch | status
+   --- | ---
+master | [![Build Status](https://travis-ci.org/OSSHealth/augur.svg?branch=master)](https://travis-ci.org/OSSHealth/augur)
+   dev | [![Build Status](https://travis-ci.org/OSSHealth/augur.svg?branch=dev)](https://travis-ci.org/OSSHealth/augur)
+   
 ### What is Augur
 
 ##### Example Website (running on a development grade web server, *be gentle*): http://augur.sociallycompute.io
